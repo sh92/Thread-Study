@@ -1,4 +1,4 @@
-package demo5;
+package syncronized;
 
 public class App {
 	private int count;
